@@ -1,6 +1,6 @@
 # **Comprehensive Guide to Integrating Payment Gateway SDK in Flutter**
 <a href="https://www.billdesk.com/">
-<img src="https://payments.billdesk.com/bdcollect/bdCollect/bank/customer/resources/img/BillDeskLogo.png" width="200" height="400" alt="Billdesk Logo">
+<img src="https://payments.billdesk.com/bdcollect/bdCollect/bank/customer/resources/img/BillDeskLogo.png" width="200" height="100" alt="Billdesk Logo">
 </a>
 
 <p style="text-align: justify;">
